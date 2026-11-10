@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
